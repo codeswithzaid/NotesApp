@@ -16,7 +16,7 @@ A simple text-based Notes App built using **HTML, CSS, and JavaScript**. This ap
 4. Click **Delete** to remove a note.  
 
 ## 🌐 Live Demo  
-🔗 [Click here to use the Notes App](YOUR_GITHUB_PAGES_LINK_HERE)  
+🔗 [Click here to use the Notes App]https://codeswithzaid.github.io/NotesApp/
 
 ## 📌 Technologies Used  
 - HTML  
